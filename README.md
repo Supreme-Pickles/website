@@ -1,2 +1,2 @@
-# Supreme Pickles website
+# Supreme Pickles
 > Developer : [@ArSiddharth](https://github.com/ArSiddharth)
